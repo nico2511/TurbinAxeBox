@@ -3,7 +3,8 @@
 Fichiers STL pour impression d'une box pour le [Bitaxe]([https://github.com/skot/bitaxe](https://github.com/nico2511/TurbinAxeBox/tree/main/stl)) 
 
 ## Image
-![image](https://github.com/nico2511/BitaxeBox/blob/main/Pictures/Final/IMG_20231021_142720.jpg)
+![IMG_20240908_081541](https://github.com/user-attachments/assets/c15c36e5-af22-4c7e-9f32-22f3d6f628e1)
+
 
 ## En supplément
 - [ARCTIC F8 PWM - 80 mm](https://www.amazon.fr/dp/B08S7MTW8V?psc=1&ref=ppx_yo2ov_dt_b_product_details)
